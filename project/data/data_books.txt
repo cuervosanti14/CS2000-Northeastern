@@ -1,0 +1,10 @@
+1,Python Basics,Computing,5,100
+2,Advanced Computing,Computing,10,75
+3,Linear Algebra,Math,3,185
+4,Introductory Calculus,Math,15,38
+5,Introductory Physics,Science,7,88
+6,Advanced Chemistry,Science,6,104
+7,Writing Principles,Writing,30,36
+8,World History,History,18,55
+9,Superman,Comic,12,132
+10,Batman,Comic,14,80

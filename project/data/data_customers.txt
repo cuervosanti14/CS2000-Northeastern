@@ -1,0 +1,10 @@
+1,Santi,Male,1234
+2,Donald,Male,2345
+3,Daisy,Female,3456
+4,Mickey,Male,4567
+5,Minnie,Female,5678
+6,Goofy,Male,6789
+7,Pluto,Male,7890
+8,Chip,Male,4321
+9,Dale,Male,5432
+10,Scrooge,Male,6543
